@@ -6,6 +6,9 @@
 
 - languages
   <html>https://www.w3.org/html/</html>
+  <html>https://www.w3schools.com/css/</html>
+  <html a="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</html>
+
 
 <!---
 NadaAbdELhamedZahran/NadaAbdELhamedZahran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

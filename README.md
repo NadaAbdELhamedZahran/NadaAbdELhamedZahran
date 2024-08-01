@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : nadaabdelhamedzahran@gmail.com
 
-- <p style="color:white; background-color:#ff9900; margin-left:15%; width: 50%; height:10%;">Languages and Tools</p>
+  <div style="color:white; background-color:#ff9900; margin-left:15%; width: 50%; height:10%;">Languages and Tools</div>
 - HTML,HTML5,CSS,CSS3,BootStrap,Sass,JavaSscript and Jquery
 <!---
   <html>
